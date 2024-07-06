@@ -6,3 +6,8 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Here is a project based on react in which we have made a task manager.
+The Hooks we have used is usestate only.
+When you add a task it will be added in your list.
+Here is the link of the site "https://nishit-naman-test.vercel.app/".
